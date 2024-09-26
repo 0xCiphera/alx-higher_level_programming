@@ -1,3 +1,3 @@
-# Learning Jquery At ALX 😆
+# Learning Jquery At ALX 
 
-Did someone say Jquery 😆
+Did someone say Jquery, Here we go!!!
