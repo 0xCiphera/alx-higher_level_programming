@@ -1,0 +1,1 @@
+find . -type f -name '*.py' -exec sed -i '1s|^#!/usr/bin/bash/python3|#!/usr/bin/python3|' {} +
